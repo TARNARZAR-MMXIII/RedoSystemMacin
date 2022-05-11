@@ -1,2 +1,2 @@
 # RedoSystemMacinEngine
-RedoSystemMacin (R.S.M.) Engine 
+RedoSystemMacinEngine (R.S.M.E.)
